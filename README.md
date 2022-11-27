@@ -8,6 +8,6 @@ pip install -r requirements.txt
 
 It will install all the dependencies.
 
-As it is a django app make migrations and run the server to us the application.
+As it is a django app make migrations and run the server to use the application.
 
 Enjoy playing Chess.Cheers.
