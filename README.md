@@ -3,8 +3,11 @@ Chess is a web application where a user can play chess online. It is created usi
 
 Clone the repository or download zip.
 In your virtual environment run command
+
 pip install -r requirements.txt
 
 It will install all the dependencies.
 
-Make migrations and run the server.
+As it is a django app make migrations and run the server to us the application.
+
+Enjoy playing Chess.Cheers.
