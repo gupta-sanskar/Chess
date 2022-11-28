@@ -1,6 +1,8 @@
 # Chess 
 Chess is a web application where a user can play chess online. It is created using Python with Django framework and Chess module written in python.
 
+Use Python version 3.5 or higher for chess module.
+
 Clone the repository or download zip.
 In your virtual environment run command
 
