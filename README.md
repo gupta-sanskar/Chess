@@ -13,7 +13,7 @@ As it is a django app make migrations and run the server to use the application.
 Register a user and then login to play.
 Enter move in form of from-square to to-square i.e. the square at which a piece is placed to the square at which the user wants it to move.
 
-Example moving a White's Knight on left side of King, user should input "b2c3" to move it infront of White Bishop's pawn.
-Where b2 is the current position of Knight and c3 is the position user wants to move to.
+Example moving a White's Knight on left side of King, user should input "b1c3" to move it infront of White Bishop's pawn.
+Where b1 is the current position of Knight and c3 is the position user wants to move to.
 
 Enjoy playing Chess.Cheers.
